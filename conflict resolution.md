@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-INoLemon
-=======
-I NOT Like Lemon
->>>>>>> ILikeLemon
+LEmons are fine I guess
